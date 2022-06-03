@@ -1,0 +1,50 @@
+.container{
+  padding : 0px;
+}
+.Listcontainer{
+  display: flex;
+  padding: 5px;
+  justify-content: space-around;
+
+
+}
+.Listcontainer div{
+  padding: 10px;
+}
+.Lists{
+  padding: 10px;
+}
+.Lists ul li{
+  padding: 5px;
+}
+.footer {
+  display: flex;
+  flex: 1;
+  padding: 0rem 0;
+  border-top: 1px solid #eaeaea;
+  
+}
+.logodis{
+  display: block;
+  flex-basis: 20%;
+}
+.footcontainer{
+  display: block;
+  background-color: black;
+  color: white;
+  padding: 5px;
+}
+.footerup{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  
+}
+.tinyicons ul{
+  display: flex;
+  padding: 10px;
+}
+.field{
+  border-radius:20px;
+  height: 30px;
+}
